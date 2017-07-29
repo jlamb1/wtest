@@ -1,0 +1,17 @@
+body {
+	margin: 0;
+}
+
+.header {
+	border-top: 3px solid #565453;
+	border-bottom: 3px solid #565453;
+	background: #1da1db;
+}
+
+.header p {
+	font-family: 'montserrat';
+	font-size: 2em;
+	padding-left: 5%;
+	color: #fff;
+}
+

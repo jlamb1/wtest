@@ -1,0 +1,18 @@
+$primary-color: #1DA1DB;
+$secondary-color: #565453;
+
+body {
+	margin: 0;
+}
+
+.header {
+	background: $primary-color;
+	border-top: 3px solid $secondary-color;
+	border-bottom: 3px solid $secondary-color;
+	p {
+		color: #fff;
+		font-family: 'montserrat';
+		font-size: 2em;
+		padding-left: 5%;
+	}
+}
